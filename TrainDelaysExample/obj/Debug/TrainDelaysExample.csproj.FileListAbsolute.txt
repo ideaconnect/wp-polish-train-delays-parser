@@ -1,0 +1,15 @@
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\ApplicationIcon.png
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\Background.png
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\TrainDelaysExample.dll
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\TrainDelaysExample.pdb
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\AppManifest.xaml
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\TrainDelaysExample.xap
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\polish-train-delay-parser.dll
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\Bin\Debug\polish-train-delay-parser.pdb
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\obj\Debug\TrainDelaysExample.csprojResolveAssemblyReference.cache
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\obj\Debug\App.g.cs
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\obj\Debug\MainPage.g.cs
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\obj\Debug\TrainDelaysExample.g.resources
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\obj\Debug\TrainDelaysExample.dll
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\obj\Debug\TrainDelaysExample.pdb
+C:\Users\Bartosz\documents\visual studio 2012\Projects\polish-train-delay-parser\TrainDelaysExample\obj\Debug\XapCacheFile.xml

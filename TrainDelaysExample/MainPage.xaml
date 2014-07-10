@@ -1,0 +1,33 @@
+﻿<phone:PhoneApplicationPage 
+    x:Class="TrainDelaysExample.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+    xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d" d:DesignWidth="480" d:DesignHeight="768"
+    FontFamily="{StaticResource PhoneFontFamilyNormal}"
+    FontSize="{StaticResource PhoneFontSizeNormal}"
+    Foreground="{StaticResource PhoneForegroundBrush}"
+    SupportedOrientations="Portrait" Orientation="Portrait"
+    shell:SystemTray.IsVisible="True">
+
+    <!--LayoutRoot is the root grid where all page content is placed-->
+    <Grid x:Name="LayoutRoot" Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+
+        <!--ContentPanel - place additional content here-->
+        <Grid x:Name="ContentPanel" Grid.Row="1" Margin="12,0,12,0">
+            <TextBox x:Name="station" HorizontalAlignment="Left" Height="79" Margin="10,10,0,0" TextWrapping="Wrap" Text="Szczecin" VerticalAlignment="Top" Width="245"/>
+            <Button Content="Find station" HorizontalAlignment="Left" Height="79" Margin="255,10,0,0" VerticalAlignment="Top" Width="191" Click="Button_Click"/>
+            <TextBlock HorizontalAlignment="Left" Margin="21,94,0,0" TextWrapping="Wrap" Text="Double tap on the station/train to load details:" VerticalAlignment="Top"/>
+            <ListBox x:Name="trainstationslist" ScrollViewer.VerticalScrollBarVisibility="Visible" Margin="21,126,10,10" DoubleTap="trainstationslist_DoubleTap"/>
+        </Grid>
+    </Grid>
+
+</phone:PhoneApplicationPage>
